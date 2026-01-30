@@ -2,7 +2,6 @@
 
 ## Academic
 ### Measuring Starlink Quality of Experience
-<iframe width="640" height="390" src="https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view?usp=sharing" frameborder="0"></iframe>
 
 I designed and presented this poster at a poster conference hosted by Swarthmore's chapter of Sigma Xi. See our paper, presented at TPRC 2025: <a href="https://doi.org/10.2139/ssrn.5400556">A View From Above: Measuring Rural Internet Access Across a Diverse Corpus of Starlink Measurements</a>
 
