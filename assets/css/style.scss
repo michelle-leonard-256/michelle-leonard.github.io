@@ -3,6 +3,12 @@
 
 @import "jekyll-theme-minimal";
 
+@keyframes bob {
+  from {font-size: 12px;}
+  to {font-size: 14px;}
+  to {font-size: 12px;}
+}
+
 a, a:visited, a:link, a:active {
   color: #6a5ed2;
   text-decoration: underline;
@@ -14,7 +20,8 @@ a:hover {
 }
 
 #li:hover ~ #fa-beat-hover {
-    animation: fa-beat;
+    animation-name: bob;
+    animation-duration: 2s;
 }
 
 .fa-ul {
