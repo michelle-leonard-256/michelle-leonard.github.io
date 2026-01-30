@@ -12,6 +12,10 @@ https://youtu.be/8deRL3whkKo
 ## Games
 
 ## Video + Music
+![road taken from fire emblem fates but it's a city pop mashup]
+(https://img.youtube.com/vi/Lh8Zhlvf7Vc/hqdefault.jpg)]
+(https://www.youtube.com/watch?v=Lh8Zhlvf7Vc)
+
 <div class="embed-container">
     <iframe width="640" height="390" 
     src="https://youtu.be/qA6plufx-Tc"
