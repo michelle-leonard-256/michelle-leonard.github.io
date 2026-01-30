@@ -2,8 +2,8 @@
 
 ## Academic
 ### Measuring Starlink Quality of Experience
-<object data="[http://yoursite.com/the.pdf](https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view)" type="application/pdf" width="700px" height="700px">
-    <embed src="[http://yoursite.com/the.pdf](https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view)">
+<object data="https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view">
         <em><p style = "color:gray;">This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view">Download PDF</a>.</p></em>
     </embed>
 </object>
