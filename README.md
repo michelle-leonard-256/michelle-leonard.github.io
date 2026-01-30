@@ -6,7 +6,11 @@
 I designed and presented this poster at a poster conference hosted by Swarthmore's chapter of Sigma Xi. See our paper, presented at TPRC 2025: <a href="https://doi.org/10.2139/ssrn.5400556">A View From Above: Measuring Rural Internet Access Across a Diverse Corpus of Starlink Measurements</a>
 
 ### "Dicey Dungeons: Familiar Foundations"
-https://youtu.be/8deRL3whkKo
+![Dicey Dungeons: Familiar Foundations]
+(https://img.youtube.com/vi/8deRL3whkKo/hqdefault.jpg)]
+(https://www.youtube.com/watch?v=8deRL3whkKo)
+
+[https://youtu.be/x](https://youtu.be/8deRL3whkKo)
 
 A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey Dungeons (Terry Cavanagh, 2019) which make it so easy and so fun to play. Made with the patience and grace of my mother. 
 
