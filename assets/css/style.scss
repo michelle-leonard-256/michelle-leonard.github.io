@@ -17,6 +17,8 @@ a:hover {
   color: #6a5ed2;
   text-decoration: underline;
   font-weight: bold;
+  animation-name: bob;
+  animation-duration: 2s;
 }
 
 #li:hover ~ #fa-beat-hover {
