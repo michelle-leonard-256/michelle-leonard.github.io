@@ -7,6 +7,7 @@
 I designed and presented this poster at a poster conference hosted by Swarthmore's chapter of Sigma Xi. See our paper, presented at TPRC 2025: <a href="https://doi.org/10.2139/ssrn.5400556">A View From Above: Measuring Rural Internet Access Across a Diverse Corpus of Starlink Measurements</a>
 
 ### "Dicey Dungeons: Familiar Foundations"
+https://youtu.be/8deRL3whkKo
 
 ## Games
 
