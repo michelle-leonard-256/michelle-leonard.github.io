@@ -4,9 +4,7 @@
 ### Measuring Starlink Quality of Experience
 <object data="https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view?usp=sharing" type="application/pdf" width="700px" height="700px">
     <embed src="https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view?usp=sharing">
-        <em><p style = "color:gray;"><a href="https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view?usp=sharing">Poster PDF</a></p></em>
-    </embed>
-</object>
+        <em><p style = "color:gray;"><a href="https://drive.google.com/file/d/1AA8O1TlFXviXU3WS2KvonUHej4JtXL63/view?usp=sharing">Poster PDF</a></p></em></embed></object>
 I designed and presented this poster at a poster conference hosted by Swarthmore's chapter of Sigma Xi. See our paper, presented at TPRC 2025: <a href="https://doi.org/10.2139/ssrn.5400556">A View From Above: Measuring Rural Internet Access Across a Diverse Corpus of Starlink Measurements</a>
 
 ### "Dicey Dungeons: Familiar Foundations"
