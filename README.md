@@ -14,7 +14,7 @@ I designed and presented this poster at a poster conference hosted by Swarthmore
 ## Games
 
 ## Video + Music
-<iframe width="560" height="315" src="https://youtu.be/qA6plufx-Tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://youtu.be/qA6plufx-Tc" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://youtu.be/mnFJ3s7o03w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
