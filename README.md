@@ -1,1 +1,5 @@
+---
+layout: default
+---
+
 # Michelle Leonard
