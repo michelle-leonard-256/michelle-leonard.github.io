@@ -8,6 +8,10 @@ I designed and presented this poster at a poster conference hosted by Swarthmore
 ### "Dicey Dungeons: Familiar Foundations"
 https://youtu.be/8deRL3whkKo
 
+A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey Dungeons (Terry Cavanagh, 2019) which make it so easy and so fun to play. Made with the patience and grace of my mother. 
+
+I filmed clips using OBS, edited the essay in Adobe Premiere Pro, and recorded narration under a blanket in my closet. Co-written with Aaron Moss.
+
 ## Games
 
 ## Video + Music
@@ -15,20 +19,18 @@ https://youtu.be/8deRL3whkKo
 (https://img.youtube.com/vi/Lh8Zhlvf7Vc/hqdefault.jpg)]
 (https://www.youtube.com/watch?v=Lh8Zhlvf7Vc)
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://youtu.be/qA6plufx-Tc"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+A cover/mashup of a Fire Emblem Fates song. Produced in Garageband. Vocals by me. Video recorded with OBS.
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://youtu.be/mnFJ3s7o03w"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+![road taken from fire emblem fates but it's a city pop mashup]
+(https://img.youtube.com/vi/Lh8Zhlvf7Vc/hqdefault.jpg)]
+(https://www.youtube.com/watch?v=Lh8Zhlvf7Vc)
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://youtu.be/Lh8Zhlvf7Vc"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A mashup of an Undertale and a Deltarune song which I produced from scratch, using various free audio samples. I also made the thumbnail.
+
+![road taken from fire emblem fates but it's a city pop mashup]
+(https://img.youtube.com/vi/Lh8Zhlvf7Vc/hqdefault.jpg)]
+(https://www.youtube.com/watch?v=Lh8Zhlvf7Vc)
+
+A cover of a song from Deltarune Chapter 4, using a mix of recorded instruments and digital synths. Produced in Garageband. Piano, percussion, and vocals by me. Video edited by me in Premiere!
+
 </div>
