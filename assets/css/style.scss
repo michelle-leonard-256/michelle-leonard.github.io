@@ -3,16 +3,18 @@
 
 @import "jekyll-theme-minimal";
 
-a {
+a, a:visited, a:link, a:active {
   color: #6a5ed2;
   text-decoration: underline;
 }
+a:hover {
+  color: #6a5ed2;
+  text-decoration: underline;
+  font-weight: bold;
+}
 
-.fa-beat-hover:hover {
-  -webkit-animation: fa-beat;
-  -moz-animation: fa-beat;
-  -o-animation: fa-beat;
-  animation: fa-beat;
+#li:hover ~ #fa-beat-hover {
+    animation: fa-beat;
 }
 
 .fa-ul {
