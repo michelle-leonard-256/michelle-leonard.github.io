@@ -2,7 +2,7 @@
 
 ## Academic
 ### Measuring Starlink Quality of Experience
-[Starlink Quality of Experience Sigma Xi Poster 2025-26.pdf](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/9cde5da24a3f79d63303bf851a90758aa6aa65d3/_includes/Sigma%20Xi%20Poster%202025-26-1.png)(https://github.com/user-attachments/files/24956972/Sigma.Xi.Poster.2025-26.pdf) (link will download PDF)
+[Starlink Quality of Experience Sigma Xi Poster 2025-26.pdf](https://github.com/user-attachments/files/24956972/Sigma.Xi.Poster.2025-26.pdf) (link will download PDF)
 
 I designed and presented this poster at a conference hosted by Swarthmore's chapter of Sigma Xi. See our paper, presented at TPRC 2025: [A View From Above: Measuring Rural Internet Access Across a Diverse Corpus of Starlink Measurements](https://doi.org/10.2139/ssrn.5400556)
 
