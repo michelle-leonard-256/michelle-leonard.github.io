@@ -1,5 +1,5 @@
 # Selected Work
-_[academic](#academic)_ $\cdot$ _[games](#games)_ $\cdot$ _[video & music](#video--music)_
+_[academic](#academic)_ · _[games](#games)_ · _[video & music](#video--music)_
 
 ## Academic
 ### Measuring Starlink Quality of Experience
