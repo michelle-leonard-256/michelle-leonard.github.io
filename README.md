@@ -1,4 +1,5 @@
 # Selected Work
+_[academic](#academic)_ $\cdot$ _[games](#games)_ $\cdot$ _[video & music](#video--music)_
 
 ## Academic
 ### Measuring Starlink Quality of Experience
@@ -17,7 +18,7 @@ A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey 
 
 My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players. Basically, everything I found myself wishing for in a game when I wanted to play with my friends. It was a fun exercise in ludonarrative consonance.
 
-## Video + Music
+## Video & Music
 ### road taken from fire emblem fates but it's a city pop mashup
 [![road taken from fire emblem fates but it's a city pop mashup](https://img.youtube.com/vi/Lh8Zhlvf7Vc/hqdefault.jpg)](https://www.youtube.com/watch?v=Lh8Zhlvf7Vc)
 
