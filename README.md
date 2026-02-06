@@ -11,6 +11,12 @@ I designed and presented this poster at a conference hosted by Swarthmore's chap
 
 A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey Dungeons (Terry Cavanagh, 2019) which make it so easy and so fun to play. Made with the patience and grace of my mother. I filmed clips using OBS, edited the essay in Adobe Premiere Pro, and recorded narration under a blanket in my closet. Co-written and -narrated with Aaron Moss.
 
+## Games
+### _Chrysallis_
+[![chrysallis cover page](https://mkleonard.itch.io/chrysallis)]
+
+My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players. Basically, everything I found myself wishing for in a game when I wanted to play with my friends. It was a fun exercise in ludonarrative consonance.
+
 ## Video + Music
 ### road taken from fire emblem fates but it's a city pop mashup
 [![road taken from fire emblem fates but it's a city pop mashup](https://img.youtube.com/vi/Lh8Zhlvf7Vc/hqdefault.jpg)](https://www.youtube.com/watch?v=Lh8Zhlvf7Vc)
