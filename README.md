@@ -3,7 +3,7 @@ _[academic](#academic)_ · _[games](#games)_ · _[video & music](#video--music)_
 
 ## Academic
 ### Measuring Starlink Quality of Experience
-[Starlink Quality of Experience Sigma Xi Poster 2025-26.pdf](https://github.com/user-attachments/files/24956972/Sigma.Xi.Poster.2025-26.pdf) (link will download PDF)
+[![Starlink Quality of Experience Sigma Xi Poster 2025-26.pdf](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/a18126b2c2a41563c78fdf2e9107cc01bf788d9b/_includes/sigma%20xi%20poster.png)](https://github.com/user-attachments/files/24956972/Sigma.Xi.Poster.2025-26.pdf) (clicking on image will download PDF)
 
 I designed and presented this poster at a conference hosted by Swarthmore's chapter of Sigma Xi. See our paper, presented at TPRC 2025: [A View From Above: Measuring Rural Internet Access Across a Diverse Corpus of Starlink Measurements](https://doi.org/10.2139/ssrn.5400556)
 
