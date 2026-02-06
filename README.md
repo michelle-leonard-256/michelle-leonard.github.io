@@ -14,7 +14,7 @@ A video essay analyzing the aesthetic and mechanic legacies that inspired Dicey 
 
 ## Games
 ### _Chrysallis_
-[![chrysallis cover page](https://mkleonard.itch.io/chrysallis)]
+<iframe frameborder="0" src="https://itch.io/embed/4244399?link_color=fabcd5" width="552" height="167"><a href="https://mkleonard.itch.io/chrysallis">Chrysallis by mkleonard</a></iframe>
 
 My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players. Basically, everything I found myself wishing for in a game when I wanted to play with my friends. It was a fun exercise in ludonarrative consonance.
 
