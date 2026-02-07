@@ -20,7 +20,7 @@ My first TTRPG: GM-less, no-prep, lightweight, d6-based, 3-7 players; basically,
 
 ### Bumper Cars
 ![A gif showing a pixel-styled video game. A red car and a blue car race around a track in a grassy field. Occasionally they bump into each other or a tree and lose a heart.](https://github.com/michelle-leonard-256/michelle-leonard-256.github.io/blob/0b5d2456a4351e2d85c8eb337f5b2b5aa1f0ae63/_includes/video1.gif)
-A bumper-cars game made in TIC-80, a small fantasy console that uses Lua. I implemented collision logic, multi-player support, and drew the pixel art. Code base and car sprites from [Josh Goebel's](https://github.com/nesbox/TIC-80/wiki/Driving-Model) TIC-80 vectors tutorial. Coded in collaboration with a classmate.
+A bumper-cars game made in TIC-80, a small fantasy console that uses Lua. I implemented collision logic, multi-player support, and drew the pixel art. Code base and car sprites from [Josh Goebel's](https://github.com/nesbox/TIC-80/wiki/Driving-Model) TIC-80 vectors tutorial. Coded in collaboration with a classmate for a Swarthmore CS86 lab.
 
 ## Video & Music
 ### road taken from fire emblem fates but it's a city pop mashup
